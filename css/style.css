@@ -36,3 +36,11 @@
 .mini-footer{
     background: #004481;
 }
+
+/*Responsiveness*/
+
+@media (max-width: 767.98px) {
+    .mx-w-100 {
+      max-width: 100% !important;
+    }
+  }
