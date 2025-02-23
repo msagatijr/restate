@@ -4,6 +4,11 @@
     border-radius: .2rem;
 }
 
+.fa-house{
+    width: 54px;
+    height: 54px;
+}
+
 .go-span{
     color: #ba1165;
 }
@@ -12,6 +17,18 @@
     background-color: #004481;
 }
 
-.site-footer{
-    background-color: #004481;
+.single-box h5{
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.single-box ul{
+    list-style: none;
+    padding: 0;
+}
+
+.single-box ul li a{
+    text-decoration: none;
+    color: #000000;
+    /* line-height: 2; */
 }
