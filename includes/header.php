@@ -40,7 +40,7 @@
                                         </li>
                                     </ul>
                                     <ul>
-                                        <button type="button" class="btn btn-outline-primary text-primary">Login</button>
+                                        <button type="button" class="btn btn-outline-danger">Login</button>
                                         <button type="button" class="btn btn-outline-dark">Register</button>
                                     </ul>
                                 </div>
